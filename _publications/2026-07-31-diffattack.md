@@ -1,6 +1,7 @@
 ---
 title: "DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-07-31-diffattack
 excerpt: 'This paper demonstrates how narrow decision boundaries in deep face recognition systems can be conflated, rendering models vulnerable to adversarial attacks.'
 date: 2026-07-31
