@@ -16,10 +16,10 @@ Education
   * *Research Focus:* Generative model security, adversarial robustness, and computer vision.
 
 * **M.S. in Computer Science**
-  * Amirkabir University of Technology
+  * Amirkabir University of Technology, Tehran, Iran
 
 * **B.S. in Computer Science**
-  * Noshirvani University of Technology
+  * Noshirvani University of Technology, Tehran, Iran
 
 Work Experience
 ======
