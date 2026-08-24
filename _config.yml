@@ -28,11 +28,11 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Omid Ahmadieh"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "PhD Researcher at the Bellini College of Artificial Intelligence, Cybersecurity and Computing, focusing on generative model security and adversarial robustness."
   location         : "Florida, United States"
   employer         : "University of South Florida"
-  uri              : "https://omid-ahmadieh.github.io"
+  uri              : 
   email            : "oa21@usf.edu"
 
   # Academic websites
