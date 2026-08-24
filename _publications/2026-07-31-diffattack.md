@@ -6,7 +6,7 @@ permalink: /publication/2026-07-31-diffattack
 excerpt: 'This paper demonstrates how narrow decision boundaries in deep face recognition systems can be conflated, rendering models vulnerable to adversarial attacks.'
 date: 2026-07-31
 paperurl: 'https://arxiv.org/abs/2607.28936'
-citation: 'Ahmadieh, Omid, and Nima Karimian. "DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models." arXiv preprint arXiv:2607.28936 (2026).'
+
 ---
 
 [Download paper here](https://arxiv.org/abs/2607.28936)
