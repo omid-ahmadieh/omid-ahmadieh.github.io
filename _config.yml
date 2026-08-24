@@ -26,7 +26,7 @@ repository               : "omid-ahmadieh/omid-ahmadieh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Omid Ahmadieh"
   pronouns         : # example: "he/him"  
   bio              : "PhD Researcher at the Bellini College of Artificial Intelligence, Cybersecurity and Computing, focusing on generative model security and adversarial robustness."
