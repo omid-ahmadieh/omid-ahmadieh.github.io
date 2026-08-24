@@ -15,5 +15,6 @@ Prior to joining USF, I conducted research at West Virginia University. I obtain
 My primary research focuses on the intersection of machine learning security and computer vision. I am particularly interested in:
 * **Generative Model Security:** Analyzing vulnerabilities and defending against image hijacks in generative models.
 * **Adversarial Robustness:** Improving the resilience of vision-language models (such as CLIP) against adversarial attacks.
-* 
+
+  
 ## 📰 News
